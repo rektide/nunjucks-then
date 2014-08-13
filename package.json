@@ -1,0 +1,11 @@
+{
+	"name": "nunjucks-then",
+	"version": "1.0.0",
+	"description": "A Promise filter for Nunjucks",
+	"main": "nunjucks-then.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "rektide de la faye",
+	"license": "X"
+}
